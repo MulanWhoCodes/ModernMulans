@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 18px;
+}
+
+h1 {
+    color: #430d68;
+    font-family: Arial, sans-serif;
+    margin: 1px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 15px;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 15px;
+}
+
+
+img {
+    max-width: 80%;
+    height: auto;
+    border-radius: 5px;
+    margin: 0 auto; /* Center the image horizontally */
+    display: block; /* Remove default inline display for proper centering */
+    margin-bottom: 5px;
+}
